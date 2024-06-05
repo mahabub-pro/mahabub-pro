@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, My Name Is Mahabub Hasan Hridoy
+#### Full-Stack Web Developer
+![Full-Stack Web Developer](https://x.com/Mahabub_Hasan__/status/1798402949384954197/photo/1)
 
-<!--
-**mahabub-pro/mahabub-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a quick learner, I learn anything quickly and try to do the related tasks on what I learned. I aspire to contribute my skills and dedication to drive success and growth within an innovative company. With a proactive mindset, I embrace challenges and strive to exceed expectations at every opportunity.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / JAVASCRIPT / TAILWIND CSS / REACT / FIREBASE/ AUTHENTICATION & AUTHORIZATION/ NODE JS/EXPRESS JS/MongoDB/GITHUB/ NETLIFY/CHROME EXTENSION BUILDER
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on self development 
+- 🌱 I’m currently learning PHP 
+- 📫 How to reach me: https://www.linkedin.com/in/mahabub-hasan-hridoy/ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/mahabub-pro)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahabub-hasan-hridoy//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Mahabub.Hasan.Hridoy23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/Mahabub_Hasan__)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/mahabub-pro)](https://github.com/anuraghazra/github-readme-stats)
+
