@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name Is Mahabub Hasan Hridoy
 #### Full-Stack Web Developer
-![Full-Stack Web Developer](https://x.com/Mahabub_Hasan__/status/1798402949384954197/photo/1)
+![Full-Stack Web Developer](https://drive.google.com/file/d/1jy0yKCKL8R7amXWI0RuVWZqftVf6J4kU/view?usp=sharing)
 
 As a quick learner, I learn anything quickly and try to do the related tasks on what I learned. I aspire to contribute my skills and dedication to drive success and growth within an innovative company. With a proactive mindset, I embrace challenges and strive to exceed expectations at every opportunity.
 
